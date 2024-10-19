@@ -1,10 +1,10 @@
 body {
-  background: red;
+  background: #f7e8a5;
 }
-h1 {
+h1,
+p {
   text-align: center;
-  color: white;
 }
 a {
-  color: white;
+  color: #218c1b;
 }
